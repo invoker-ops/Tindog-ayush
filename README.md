@@ -43,37 +43,43 @@ Heart:
 
 ## Text:
 
-Meet new and interesting dogs nearby.
+Tindog - Portfolio Website
+Tindog is a responsive portfolio website designed and developed using HTML, CSS, and Bootstrap. This project showcases my web development skills by creating a mobile-friendly, visually appealing site with a clean layout.
 
-Easy to use.
-So easy to use, even your dog could do it.
+Features
+Responsive design that works on desktops, tablets, and mobile devices
 
-Elite Clientele.
-We have all the dogs, the greatest dogs.
+Built with Bootstrap framework for easy layout and styling
 
-Guaranteed to work.
-Find the love of your dog's life or your money back.
+Clean and modern UI/UX with smooth navigation
 
-"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
-Pebbles, New York
+Showcases portfolio projects and skills
 
-A Plan for Every Dog's Needs
-Simple and affordable price plans for you and your dog.
+Technologies Used
+HTML5
 
-Chihuahua
-$0/mo
-5 Matches Per Day
-10 Messages Per Day
-Unlimited App Usage
+CSS3
 
-Labrador
-$15/mo
-Unlimited Matches
-Unlimited Messages
-Unlimited App Usage
+Bootstrap 5
 
-Mastiff
-$29/mo
-Pirority Listing
-Unlimited Matches & Messages
-Unlimited App Usage
+Git & GitHub for version control
+
+Live Demo
+Check out the live website here: Tindog Live Demo
+
+Installation
+You don’t need to install anything to view this project. Simply open the index.html file in your browser or visit the live demo link.
+
+How to Use
+Navigate through the site using the menu
+
+Explore the portfolio section to see projects
+
+Responsive design ensures good experience on all devices
+
+About Me
+I am a BCA student passionate about web development and programming. This project reflects my skills in frontend web technologies.
+
+Contact
+Feel free to reach out to me for any questions or collaboration:
+Email: ayushtripathigzb@gmail.com
